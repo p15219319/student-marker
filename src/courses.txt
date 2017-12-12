@@ -1,0 +1,20 @@
+Computer Science
+CTEC2602 OO Software Design and Development false
+CTEC2701 Multi - tier Web Applications true
+CTEC2901 Data Structures and Algorithms false
+CTEC2121 Organisations, Project Management and Research true
+Software Engineering
+CTEC2602 OO Software Design and Development false
+CTEC2701 Multi - tier Web Applications true
+CTEC2901 Data Structures and Algorithms false
+CTEC2121 Organisations, Project Management and Research true
+Computer Security
+CTEC2701 Multi - tier Web Applications true
+CTEC2903 System Defence Strategies true
+CTEC2121 Organisations, Project Management and Research true
+CTEC2122 Forensics and Security false
+Forensic Computing
+CTEC2701 Multi - tier Web Applications true
+LAWG2003 Issues in Criminal Justice false
+CTEC2121 Organisations, Project Management and Research true
+CTEC2122 Forensics and Security false
